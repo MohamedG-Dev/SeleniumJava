@@ -96,5 +96,7 @@
 	<classpathentry kind="lib" path="poi-libraries/xmlbeans-2.6.0.jar"/>
 	<classpathentry kind="lib" path="libraries/slf4j-api-1.7.33.jar"/>
 	<classpathentry kind="lib" path="poi-libraries/log4j-1.2.17.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="testNGJAR/testng-7.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="SmokeTestSuite">
+  <test name="SmokeTest">
+    <classes>
+      <class name="learning.FrameworkConcepts.TestNG.ClassOne"/>
+      <class name="learning.FrameworkConcepts.TestNG.ClassTwo"/>
+      <class name="learning.FrameworkConcepts.TestNG.ClassThree"/>
+      <class name="learning.FrameworkConcepts.TestNG.ClassFour"/>
+      <class name="learning.FrameworkConcepts.TestNG.ClassFive"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
